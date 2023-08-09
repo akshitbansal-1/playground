@@ -1,0 +1,9 @@
+.DS_STORE
+*.out
+**/node_modules
+.vscode
+.idea
+.gradle
+gradle*
+info.plist
+*.kts

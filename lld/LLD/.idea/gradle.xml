@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="corretto-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/com.akshit.ldd.snakeladder" />
+            <option value="$PROJECT_DIR$/com.akshit.lld.bookmyshow" />
+            <option value="$PROJECT_DIR$/com.akshit.lld.chess" />
+            <option value="$PROJECT_DIR$/com.akshit.lld.elevatorS" />
+            <option value="$PROJECT_DIR$/com.akshit.lld.parkinglot" />
+            <option value="$PROJECT_DIR$/com.akshit.lld.tictactoe" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
