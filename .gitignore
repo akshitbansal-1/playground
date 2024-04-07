@@ -6,4 +6,10 @@
 .gradle
 gradle*
 info.plist
-*.kts
+*.ktspy_env
+__pycache__
+py_env
+
+airflow/learn/logs/*
+airflow/learn/airflow*
+airflow/learn/webserver*
